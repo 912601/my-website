@@ -2,6 +2,5 @@
 
 This is a really awesome site
 
-Now editing on update-readme branch
+Updates made on master on GitHub before rebase
 
-Updated locally
